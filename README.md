@@ -80,7 +80,7 @@ Para configurar los metadatos del portal hay que ejecutar el script `config.py` 
 
 5. **{-DESCRIPTION-}** : Descripción pormenorizada del catálogo.
 
-6. {-ISSUED-} : Fecha en la que se creó el catálogo, se debe utilizar el estándar [ISO-8601](http://www.w3.org/TR/NOTE-datetime). Por ejemplo: `2014-07-02T10:45:15`.
+6. **{-ISSUED-}** : Fecha en la que se creó el catálogo, se debe utilizar el estándar [ISO-8601](http://www.w3.org/TR/NOTE-datetime). Por ejemplo: `2014-07-02T10:45:15`.
 
 7. **{-URL-PUBLISHER-}** : URL de la organización que publica los datos en el catálogo. Tiene que ser una URL que siga el formato establecido por el NTI. Para más información consultar el anexo II C del [manual del Federador](http://datos.gob.es/sites/default/files/federador_-_manual_de_usuario_2.docx). Por ejemplo: `http://datos.gob.es/recurso/sector-publico/org/Organismo/L01100377`.
 
