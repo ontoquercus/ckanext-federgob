@@ -51,7 +51,7 @@ Instalar el plugin:
     cd ckanext-federgob
     sudo python setup.py develop
 
-Asegurarse que `federgob está en la lista de plugins activos del fichero de configuración de CKAN y reiniciar Apache.
+Asegurarse que `federgob` está en la lista de plugins activos del fichero de configuración de CKAN y reiniciar Apache.
 
 
 ## ¿Cómo configurar FederGob?
